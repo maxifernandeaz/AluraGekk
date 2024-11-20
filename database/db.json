@@ -1,0 +1,40 @@
+{
+  "producto": [
+    {
+      "id": "feee",
+      "nombre": "playa",
+      "precio": "532454",
+      "imagen": "https://media.istockphoto.com/id/1502675062/es/foto/lagarto-cornuda.jpg?s=1024x1024&w=is&k=20&c=3TpgDK-A3aaJsMrGPY_2EvKMYzQxvHDo4N9jSIJsykI="
+    },
+    {
+      "id": "2d6d",
+      "nombre": "JavasCrip",
+      "precio": "1222",
+      "imagen": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png"
+    },
+    {
+      "id": "a44a",
+      "nombre": "Python",
+      "precio": "45444",
+      "imagen": "https://media.istockphoto.com/id/1432637898/es/foto/con-la-pit%C3%B3n-en-el-teclado-amarillo-de-la-computadora-port%C3%A1til-moderna.jpg?s=2048x2048&w=is&k=20&c=-29t3qvaf5IkHElZ_br9LfIbeskOmZP_WI7-q3UV6-w="
+    },
+    {
+      "id": "cb11",
+      "nombre": "notebook",
+      "precio": "54545",
+      "imagen": "https://media.istockphoto.com/id/1449171785/es/foto/joven-especialista-en-ti-trabajando-en-pc-en-casa-depurando-error-de-ciberespacio-de-script.jpg?s=1024x1024&w=is&k=20&c=VuPyc6m8Vfe9wejBIlU9lNys10EHPNu-1-uriT1xP3o="
+    },
+    {
+      "id": "ad4b",
+      "nombre": "sql",
+      "precio": "6556",
+      "imagen": "https://cdn.pixabay.com/photo/2017/06/12/04/21/database-2394312_1280.jpg"
+    },
+    {
+      "id": "2d23",
+      "nombre": "css",
+      "precio": "76767",
+      "imagen": "https://cdn.pixabay.com/photo/2016/11/19/22/32/css3-1841488_1280.jpg"
+    }
+  ]
+}
